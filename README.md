@@ -66,3 +66,5 @@ Untuk mengetahui route yang ditambahkan sudah benar, buka CLI dan jalankan perin
 ![img8](artikel.png)
 - Laman kontak
 ![img9](kontak.png)
+
+# TERIMA KASIH 
