@@ -36,8 +36,9 @@ menggunakan composer. Pada praktikum ini kita menggunakan cara manual.
 
 ![img 3](home.png)
 
-Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat (xampp/htdocs/lab11_ci/ci4/)
+Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat **(xampp/htdocs/lab11_ci/ci4/)**
 Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
+
 ```php
  php spark
 ```
