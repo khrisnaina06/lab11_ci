@@ -29,6 +29,7 @@ simpan kembali filenya dan restart Apache web server !
 3. Instalasi Codeigniter 4
 Untuk melakukan instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu cara manual dan
 menggunakan composer. Pada praktikum ini kita menggunakan cara manual.
+
 • Unduh Codeigniter dari website https://codeigniter.com/download
 
 • Extrak file zip Codeigniter ke direktori htdocs/lab11_ci.
